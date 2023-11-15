@@ -72,7 +72,8 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### Github Streak: ❤️‍🔥 
  <div align=center>
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadiqawanv&theme=shades-of-purple)](https://git.io/streak-stats)
+ [![GitHub Streak] <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqawan&amp;" alt="sadiqawan">
+
   
 </div>
  
