@@ -63,6 +63,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 ### My Languages: 🕶️:
+ <div align=center>
 <div class="text-center mx-4 mb-4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqawan&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="sadiqawan"></div>
 
  
