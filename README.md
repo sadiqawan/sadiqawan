@@ -17,11 +17,10 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sadiqaw30471212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadiqaw30471212" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sadiq awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiq awan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sadiq-awan-b74563296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiq awan" height="30" width="40" /></a>
 <a href="https://fb.com/sadiq awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadiq awan" height="30" width="40" /></a>
 <a href="https://instagram.com/its_s_awan_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_s_awan_09" height="30" width="40" /></a>
 </p>
-
   
 
 
