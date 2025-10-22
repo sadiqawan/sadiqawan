@@ -25,7 +25,7 @@ I am a X Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 ### Current Status Quo:
-
+I’m a skilled Flutter Developer with over 3 years of experience in building high-quality, cross-platform mobile applications. Recently, I’ve expanded my expertise into network engineering, where I combine my technical and problem-solving skills to design efficient and secure network solutions. Passionate about technology and innovation, I enjoy creating seamless digital experiences and improving system performance.
 - 🔭 I'm actively engaged as a Software Engineer, passionately contributing to the realm of Flutter for crafting robust hybrid applications.
 
 - 🌱 My current journey involves a deep dive into the art of Flutter Application Development, where every line of code is a step towards mastery.
