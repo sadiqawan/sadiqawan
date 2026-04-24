@@ -10,7 +10,7 @@ I am a **Network Engineer & Flutter Developer** 🚀 from Pakistan 🇵🇰.
   <img src="https://komarev.com/ghpvc/?username=sadiqawan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-<p align="center">
+<p align="left"> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/sadiqawan?label=GitHub%20Followers&style=for-the-badge">
 </p>
 
