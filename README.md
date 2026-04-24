@@ -32,7 +32,8 @@ I am a **Network Engineer & Flutter Developer** 🚀 from Pakistan 🇵🇰.
 
 - NAVTTC Certified Mobile App Developer  
 - Fortinet Certified Associate  
-- Extreme Certified Associate  
+- Extreme Certified Associate
+- Hillstone Certified Security Sales
 - Hillstone Certified Security Associate  
 - BeyondTrust Certified Sales Professional  
 - Certified Professional – Kaspersky Next XDR Expert (Presales)  
